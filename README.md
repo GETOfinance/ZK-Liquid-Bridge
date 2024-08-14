@@ -1,7 +1,7 @@
 
 An Omni Liquidity and interoperability protocol that provides seamless and secure bridging of crypto assets and data across blockchains.
 
-<h3>Tokens support</h3>
+<h3>Smart Contracts</h3>
 
 <p>To facilitate testing the dApp, we deployed test tokens on the chains supported. Here are the details of the tokens</p>
 
@@ -99,7 +99,9 @@ An Omni Liquidity and interoperability protocol that provides seamless and secur
 
 <h4>Faucet</h4>
 
-<p>Link to the faucet were users can claim test tokens:</p>
+<p><a href="https://app.zkliquid.io/swap/faucet" rel="nofollow">Link to the faucet were users can claim test tokens </a></p>
+
+
 
 <h3>Automation Upkeep Links</h3>
 
